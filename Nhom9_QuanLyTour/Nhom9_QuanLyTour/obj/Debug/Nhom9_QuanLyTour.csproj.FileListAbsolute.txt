@@ -1,0 +1,160 @@
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe.config
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.pdb
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.AssemblyReference.cache
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Properties.Resources.resources
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.GenerateResource.cache
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CoreCompileInputs.cache
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.exe
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.pdb
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TrangChu.resources
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Tour.resources
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangKyTour.resources
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.KhachHang.resources
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.NhanVien.resources
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.Chitiettour.resources
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangNhap.resources
+D:\Data\CODE\TH .NET\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.QLKH.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe.config
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.pdb
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Properties.Resources.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.Chitiettour.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangKyTour.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangNhap.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.InHD.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.KhachHang.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.NhanVien.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.QLKH.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Tour.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TrangChu.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CopyComplete
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.exe
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.pdb
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.InNV.resources
+C:\Users\Admin\Downloads\hihi\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TTCN.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe.config
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.pdb
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.Shared.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\ShockwaveFlashObjects.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\stdole.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.AssemblyReference.cache
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Properties.Resources.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.Chitiettour.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangKyTour.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangNhap.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.InHD.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.InNV.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.KhachHang.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.NhanVien.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.QLKH.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Tour.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TrangChu.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TTCN.resources
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.GenerateResource.cache
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CoreCompileInputs.cache
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CopyComplete
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.exe
+F:\Freenzyy\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.pdb
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe.config
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.pdb
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.Shared.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\ShockwaveFlashObjects.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\stdole.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.AssemblyReference.cache
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Properties.Resources.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.Chitiettour.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangKyTour.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangNhap.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.InHD.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.InNV.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.KhachHang.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.NhanVien.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.QLKH.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Tour.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TrangChu.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TTCN.resources
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.GenerateResource.cache
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CoreCompileInputs.cache
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CopyComplete
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.exe
+F:\Freenzyy\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.pdb
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe.config
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.exe
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\Nhom9_QuanLyTour.pdb
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.Shared.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\ShockwaveFlashObjects.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\stdole.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.AssemblyReference.cache
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Properties.Resources.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.Chitiettour.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangKyTour.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.DangNhap.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.InHD.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.InNV.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.KhachHang.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.NhanVien.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.QLKH.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Tour.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TrangChu.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.Views.TTCN.resources
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.GenerateResource.cache
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CoreCompileInputs.cache
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.csproj.CopyComplete
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.exe
+F:\Freenzyy\Ki 5\Nhom9_CNNet_QuanLyTour\Nhom9_CNNet_QuanLyTour\Nhom9_QuanLyTour\Nhom9_QuanLyTour\obj\Debug\Nhom9_QuanLyTour.pdb
